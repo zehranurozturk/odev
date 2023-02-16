@@ -1,0 +1,68 @@
+<h1>ZEHRANUR ÖZTÜRK</h1> 
+<H3>HAKKINDA</H3>
+
+<P>
+    Merhaba ben Zehranur Öztürk. İstanbul'da yaşıyorum, 15 yaşındayım.
+    Gazetecilik ve Şiirle ilgilenirim. 
+    Kodluyoruz'un eğitim serisi sayesinde kodlamayı öğrenmeye çalışıyorum. Kodlamayı öğrenmek istememin asıl sebebi
+    ileride kendi emeğim ile bir web sitesi açmak;
+    Web geliştirmede gelişmek ve ileride kendi web sitemi açmayı hedefliyorum. 
+    
+</P>
+    e-mail=ozturkzehranur@gmail.com
+
+<hr/>
+
+
+<h1>SEVDİĞİM KİTAPLAR</h1>
+
+<h3>VENEDİK TACİRİ (William Shakespeare)</h3>
+
+<li>
+    Adaletin gerçekte taraflı olduğu bu kitap bana göre din ve aşk üzerine kurulmuş bir efsanedir.
+</li>
+
+<!--"Beni aşağıladı, beni yarım milyondan etti, kaybettiklerime güldü, kazancımla alay etti, halkımı hor gördü, işlerimi engelledi, dostlarımı benden uzaklaştırdı, düşmanlarımı kışkırttı. Peki, bütün bunlara sebep neydi? Ben Yahudiyim de ondan. Yahudinin de gözleri yok mu? Yahudinin elleri, organları, bedeni, duyguları, sevgileri, tutkuları yok mu? Aynı yiyecekle beslenmiyor mu?Silahla yaralanınca aynı acıyı duymuyor mu? Aynı hastalıklara yakalanmıyor mu? Aynı ilaçlarla iyleşmiyor mu? Kışın soğuğunu, yazın sıcağını bir Hıristiyan gibi duymaz mıyız? Etimizi kesseniz bizim de kanımız akmaz mı? Gıdıklarsanız, gülmez miyiz? Bizi zehirleseniz ölmez miyiz? Bize  haksızlık yaparsanız öcümüzü almayacak mıyız? Her şeyde  benzediğimize göre, bunda da benzeyeceğiz elbette. Bir Yahudi , bir Hıristiyan'a haksızlık ederse, karşısında göreceği hoşgörü ne? İntikam. Bir Hıristiyan bir Yahudiye haksızlık ederse, Hıristiyan töresine göre karşılığı ne olmalı? Elbette intikam! Bunu sizlerden öğrendim, sizlere uygulayacağım. Zarar verici bir şey, ama öğrettiklerinizden daha iyisini yapacağım-->
+
+<hr />
+
+<h3>DORİAN GRAY'İN PORTRESİ (Oscar Wilde)</h3>
+
+<li>
+    Güzellğin ve gençliğin önemi, insanların düşücelerinin kendilerine verdiği stres ile alınan korku ile
+    verilmiş bir dilek ve verdiği dileğin amansızca gerçekleşmesi sonucu oluşan olaylar gerççekten de ilgi çekici
+    ve insanı okumaya iten bir kitap
+</li>
+
+<!--“Bir etki yarattınız mı bir düşman kazandınız demektir.Sevilmek için sıradan biri olmak gerekir.”--->
+
+<hr />
+
+<h3>SİMYACI (Paulo Coelho)</h3>
+
+<li>
+    Okumaya değer  bir kitap.
+    Verdiği nasihatler ve karakterler arası konuşmalar mükemmeldi.
+</li>
+
+<!--"İnsan sevince, nesneler daha çok anlam kazanıyor."-->
+
+<hr />
+
+<h3>HAYVAN ÇİFTLİĞİ(George Orwell)</h3>
+
+<li>
+    Bu kitabı beğenmemin asıl sebebi yönetimi eleştirmesi ve insanlar arasında olan durumların 
+    hayvanlar üzerinde de olması.
+    Birbirine etki eden olaylar ve bir grup canlının insanlardan farklı olma bahanesi ile 
+    yönetimi ele geçirip yönetmeye çalışması ve "halkın" (karşı gelenlerin) buna karşı çıkmasını anlatan bir kitap 
+</li>
+
+
+
+<html>
+    <head>
+       <title>Sayfamızın arka plan rengi</title>
+    </head>
+    <body bgcolor="brown">
+    </body
