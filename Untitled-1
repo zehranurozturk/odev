@@ -1,0 +1,70 @@
+<h1>ZEHRANUR ÖZTÜRK</h1>
+
+<p>
+    Merhaba. Ben Zehranur Öztürk İstanbul'da yaşıyorum.
+    Tam bir <a href="https://www.marvel.com/"target="_blank">Marvel</a> hayranıyım.
+    <br>
+    Web geliştirmeyle ilgileniyorum.<a href="https://kodluyoruz.org/"target="_blank">Kodluyoruz'un</a>verdiği
+    eğitim sayesinde kendimi daha da çok geliştirme fırsatı bulduğum için kendilerine teşekkür ediyorum.
+</p>
+
+<!--E-mailim= ozturkzehranur741@gmail.com-->
+
+
+<div>
+
+<h2>İlgi Alanlarım</h2>
+
+<ul>1.FİLM
+    <li>
+       <a href="https://www.disneyplus.com/tr-tr/movies/gizli-saylar/2xa2YdiOJXQt" target="_blank">Gizli Sayılar</a>
+    </li>
+
+    <li>
+        <a href="https://www.imdb.com/title/tt4154796/" target="_blank">Avengers:Endgame</a>
+    </li>
+        
+    <li>
+        <a href="https://www.marvel.com/movies/eternals" target="_blank">Eternals</a>
+    </li>
+</ul>
+
+
+<ul>2.DİZİ
+    <li>
+      <a href="https://www.beyazperde.com/diziler/dizi-24395/" target="_blank">Rise of Empires: Ottoman</a>
+    </li>
+
+    <li>
+      <a href="https://www.beyazperde.com/diziler/dizi-19156/" target="_blank">Stranger Things</a>
+    </li>
+
+    <li>
+      <a href="https://www.beyazperde.com/diziler/dizi-20175/" target="_blank">Anne with an E</a>
+    </li>
+</ul>
+
+
+<ul>3.KİTAP
+    <li>
+        <a href="https://www.goodreads.com/book/show/30366288-s-rg-n-gezegeni" target="_blank">Sürgün Gezegeni</a>
+    </li>
+
+    <li>
+        <a href="https://www.goodreads.com/tr/book/show/24128.The_Merchant_of_Venice" target="_blank">Venedik Taciri</a>
+    </li>
+        
+    <li>
+        <a href="https://www.goodreads.com/book/show/40182781-uzaktan-kumandal-k-z" target="_blank"> Uzaktan Kumandalı Kız </a>
+    </li>
+</ul>
+
+</div>
+
+<img width="400" height="500" src="https://cdn.marvel.com/content/1x/avengersendgame_lob_crd_05_2.jpg" alt="Avengers:Endgame">
+<p>
+    Avenger:Endgame'de tüm kahramanların toplanması ve bir arada el ele verip çalışması mükemmeldi fakat 
+    sevdiğim karakterlerin ölümü beni üzdü.
+    <br>
+    Umarım Marvel'ın yeni Avengers filminde sevdiğim karakterler tekrardan dönebilir.
+</p>
