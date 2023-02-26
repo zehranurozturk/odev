@@ -1,0 +1,127 @@
+!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anasayfa-Sufle Yapımı</title>
+</head>
+<body>
+ 
+    <ul>
+        <li><a href="#footer">Hazırlayan</a></li>
+        <li><a href="#footer">Kullandığım Kaynaklar</a></li>
+        <li><a href="iletişim.html">İletişim</a></li>
+    </ul> 
+
+    <!--Arka Plan Rengi-->
+    <!DOCTYPE html>
+    <html>
+    <head>
+    <style>
+    body {
+    background-color:	 #ffcc80
+    }
+    </style>
+    </head>
+    </html>
+    <!--Arka Plann Rengi-->
+
+    <h1><strong><em>Sufle Tarifi</em></strong></h1>
+
+    <!--Section Start-->
+    <section>
+            <p>
+               <strong>
+                      <em>İşte içinizi ısıtacak bir sufle tarifi... </em>  
+               </strong> 
+            </p>
+    </section>
+    <!--Section End-->
+
+    <!--Figure Start-->
+<figure>
+        <img width="400" height="300" src="https://cdn.ye-mek.net/App_UI/Img/out/650/2020/08/tencerede-sufle-resimli-yemek-tarifi(11).jpg?h=487&w=650" alt="Sufle Resmi">
+</figure>
+    <!--Figure End-->
+
+    <!--Malzemeler İçin Liste-->
+   
+    <div class="Malzemeler">
+        <h4>Tencerede Sufle Yapımı İçin Gereken Malzemeler</h4>
+        <li>1 adet yumurta</li>
+        <li>1/2 su bardağı süt</li>
+        <li>1/2 su bardağı sıvı yağ</li>
+        <li>1/2 su bardağı toz şeker</li>
+        <li>2 yemek kaşığı kakao</li>
+        <li>1 paket kabartma tozu</li>
+        <li>1 paket vanilya</li>
+        <li>1 su bardağı un</li>
+    </div>
+
+<br>
+
+  <!--Article Start-->
+
+    <article>
+         <em>
+            <h2>
+                <font color="#ff0000"> Tencerede Sufle Yapılışı </font>
+            </h2>
+         </em>
+    </article>
+
+   <!--Article End-->
+
+   <!--Aside Start-->
+            <p>
+                <strong>Tencerede sufle yapımında;</strong>
+                orta boy derin bir kap içinde 1 adet yumurta kırın.                 
+                Üzerine yarım su bardağı toz şeker ekleyip, mikser ile köpürene
+                kadar çırpın. <br>
+                Ardından kaba yarım su bardağı süt, yarım su bardağı sıvı yağ,
+                2 yemek kaşığı kakao ve 1 paket vanilya ekleyip mikser ile karıştırın. <br>
+                Daha sonra kaba 1 su bardağı un ve 1 paket kabartma tozu ekleyin.
+                Tüm sufle harcını mikser ile son kez karıştırın.
+                <br>
+                Diğer tarafta ısıya danayıklı kapların ya da porsele fincanların
+                tabanını ve yan kenarlarını tereyağı ile iyice yağlayın. <br>
+                Taban ve kenar kısımlarına biraz un serpiştirin. Hazırlaığınız sufle 
+                harcını kapların yarısına gelecek şekilde paylaştırın. <br>
+                Suflenin tam orta kısmına 1-2 parça bitter ya da sütlü çikolata yerleştirin. <br>
+                <br>
+                Sufleleri kenarı yüksek bir tencere içine dizip, fincanların yarısına gelecek
+                kadar sıcak su doldurun. <br>
+                Buharı tutması için kapağın altına bir ufak bez yerleştirin.
+                Bezin taşan kısımlarını kapağın üzreine toplayın. <br>
+                Eğer bez yerleştirmezseniz kaptaki buharlaşan sular suflelerin üzerine damlayabilir.
+                Ardından tencereyi ocağın büyük gözüne alın. <br>
+                Kaplardan tıkırdama sesi gelene kadar yüksek ateş üzerinde pişirin.
+                Tıkırdama sesi geldikten sonra ocağın altını heme kısıp, 6 dakika pişirin. <br>
+                Sufleniz daha akışkan olsun istiyorsanız 5 dakika yeterli olacaktır.
+                <br>
+                Tencerede sufleler piştikden sonra bekletmeden hemen su içine alıp,
+                tezgah üzerine koyun. Üzerlerine pudra şekeri serpiştirip,
+                sıcak servis edebilirsiniz.
+            </p>
+   <!--Aside End-->
+
+ <hr>
+
+   <!--Section Start-->
+            <section>
+                    <h2 id="footer">Hazırlayan</h2> 
+                    <p>
+                        Zehraur Öztürk
+                        <a href="mailto:ozturkzehranur@gmail.com">ozturkzehranur741@gmail.com</a>
+                    </p>
+            </section>
+   <!--Section End-->
+     
+        
+             <h2 id="footer">Kullandığım Kaynaklar</h2>
+             <a href="https://ye-mek.net/tarif/tencerede-sufle" target="_blank">Yemeknet</a>
+
+
+</body>
+</html>
